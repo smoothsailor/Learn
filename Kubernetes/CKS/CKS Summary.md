@@ -246,7 +246,7 @@ Check seccomp mode of a process on system/in a container:
 
 2. Check seccomp mode:
 
-		$ "grep seccomp /proc/<process-id>/status
+		$ grep seccomp /proc/<process-id>/status
 
 ## Seccomp In Docker
 
