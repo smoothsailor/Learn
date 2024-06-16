@@ -1,0 +1,34 @@
+/help, /expert-tip, /fix, /verify, /finish
+
+transformative changes aimed at fostering happier developers, boosting productivity, delivering higher quality products, and accelerating our delivery process
+
+Challenge 1: Accelerate Development Environment
+    - Set up GitHub Codespace Environment
+https://youtu.be/AsDzsyxiYqw
+
+Challenge 2: Optimizing Pipelines
+    - Add CODEOWNERS
+    - Add manual approval requirement to GitHub Actions deploy workflows
+    - Add branch & PR policies
+https://youtu.be/vhtl3pS339k
+
+Challenge 3: Improving Code Understanding
+    - Redesign API to adhere to RESTful principles
+    - Add Unit Tests and run in CI/CD pipelines
+    - Add Swagger for API documentation
+https://youtu.be/AhS4Z5vwM-Y
+
+Challenge 4: Security Challenges
+    - Enable GitHub Advanced Security (GHAS)
+    - Enable CodeQL Analysis
+    - Fix Dependabot alerts
+    - Fix SQL Injection using GitHub CoPilot
+https://youtu.be/xw8IxYTS8zg
+
+Challenge 5: Adding A Event Import Parser
+    - Create command-line tool to handle import of different file formats into Azure Storage account using OpenAI + Semantic Kernel
+https://youtu.be/PxzkHffVnq0
+
+Challenge 6: Adding A Recommendation Service
+    - Use Semantic Kernel to get events from your database and OpenAI model to get a list of recommended events
+https://youtu.be/efxLLUEEdMQ

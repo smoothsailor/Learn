@@ -1,0 +1,8 @@
+# Require review from the funny-frog team for any changes made in the catalog folder.
+/catalog/ @globaldevopsexperience/global-wonderful-cartwright
+/frontend/ @globaldevopsexperience/global-wonderful-cartwright
+/ordering/ @globaldevopsexperience/global-wonderful-cartwright
+
+# Ensure the codeowners file itself can't be changed without formal review
+/.github/CODEOWNERS @globaldevopsexperience/global-wonderful-cartwright
+/CODEOWNERS @globaldevopsexperience/global-wonderful-cartwright
